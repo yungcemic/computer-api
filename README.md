@@ -41,6 +41,6 @@ allprojects {
 }
 
 dependencies {
-        implementation 'com.github.cemicyz:computer-api:Tag'
+        implementation 'com.github.cemicyz:computer-api:1.0-SNAPSHOT'
 }
 ```
